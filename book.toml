@@ -1,0 +1,11 @@
+[book]
+authors = ["ZhenYu Liu"]
+language = "zh"
+src = "src"
+title = "(Not very) Advanced Marcoeconomics"
+text-direction = "ltr"
+
+[preprocessor.katex]
+after = ["links"]
+
+[preprocessor.alerts]
