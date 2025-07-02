@@ -18,10 +18,12 @@ $$
 
 对储蓄率求偏导
 $$
-\frac{\partial c^{\ast}\left( s \right)}{\partial s} =\frac{\partial c^{\ast}\left( s \right)}{\partial k^{\ast}} \cdot \frac{\partial k^{\ast}(s)}{\partial s} =\left[ f^\prime \left( k^{\ast} \right) -\left( n+\delta \right) \right] \cdot \frac{\partial k^{\ast}(s)}{\partial s}
+\frac{\partial c^{\ast}\left( s \right)}{\partial s} =\frac{\partial c^{\ast}\left( s \right)}{\partial k^{\ast}} \cdot \frac{\partial k^{\ast}(s)}{\partial s} =\left[ f^\prime \left( k^{\ast} \right) -\left( n+\delta \right) \right] \cdot \frac{\partial k^{\ast}(s)}{\partial s} 
+{{numeq}}
+
 $$
 
-在(1.9)中，$k^{\ast}(s)$表示，每个$s$对应一个BGP状态下的$k^\ast$，已知储蓄率高的状态下人均资本量也高，因此可得$\frac{dk^{\ast}(s)}{ds}>0$。
+在(1.7.1)中，$k^{\ast}(s)$表示，每个$s$对应一个BGP状态下的$k^\ast$，已知储蓄率高的状态下人均资本量也高，因此可得$\frac{dk^{\ast}(s)}{ds}>0$。
 
 因此若想让$c^{\ast}(s)$水平最高，条件为$f^\prime(k)=n+\delta$，此时的消费率称为**黄金法则下的消费率(the “golden rule” consumption rate)**：$c_g=f(k_g)-(n+\delta)k_g$
 

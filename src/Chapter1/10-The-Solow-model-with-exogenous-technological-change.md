@@ -26,7 +26,7 @@ $$
 \begin{aligned}\frac{\dot{k}}{k}&=\frac{\dot{K} E-K\dot{E}}{E^{2}} \cdot \frac{E}{K}\\ &=\frac{\dot{K} E-K\dot{E}}{KE} =\frac{\dot{K}}{K} -\frac{\dot{E}}{E}\end{aligned}
 $$
 
-在 (1.7) 式已知$\gamma_k = \frac{\dot{k}}{k} = \frac{sf(k)}{k}-(n+\delta)$，所以代入可得
+已知$\gamma_k = \frac{\dot{k}}{k} = \frac{sf(k)}{k}-(n+\delta)$，所以代入可得
 $$
 \frac{\dot{k}}{k}=\frac{sf(k)}{k}-\delta-n-\lambda
 $$

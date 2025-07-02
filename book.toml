@@ -7,5 +7,10 @@ text-direction = "ltr"
 
 [preprocessor.katex]
 after = ["links"]
+trust = true
+
+[preprocessor.numeq]
+prefix = true
+global = false
 
 [preprocessor.alerts]

@@ -8,7 +8,6 @@ k^{\ast}=\left(\frac{sA}{n+\delta}\right)^{\frac{1}{1-\alpha}}=A^{\frac{1}{1-\al
 $$
 
 
-
 现令$A=1, n=0$
 $$
 y^{\ast}=\left(\frac{s}{\delta} \right)^{\frac{\alpha}{1-\alpha}}

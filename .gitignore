@@ -2,3 +2,5 @@ book
 .DS_Store
 guide.png
 tools
+src/.obsidian/
+.obsidian
